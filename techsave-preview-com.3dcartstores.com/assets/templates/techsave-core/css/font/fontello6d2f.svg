@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2018 by original authors @ fontello.com</metadata>
+<defs>
+<font id="fontello" horiz-adv-x="1000" >
+<font-face font-family="fontello" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="plane" unicode="&#xe802;" d="M808 272q35-20 24-59t-50-39q-4 0-14 3l-273 77 0-231 85-68q29-25 16-59t-48-35q-10 0-20 4l-111 45-110-45q-18-7-37-1t-28 24q-10 16-7 35t19 32l85 68 0 231-272-77q-19-5-37 3t-26 27-1 36 24 29l312 178 0 310q0 33 23 56t55 23 55-23 23-56l0-310z m-391 476q11 0 18 7t8 19q0 25-26 25-25 0-25-25 0-26 25-26z" horiz-adv-x="834" />
+
+<glyph glyph-name="undo" unicode="&#xe803;" d="M804 694q107-107 107-262 0-150-107-257l-84-84-79 80 84 84q74 74 74 177 0 108-74 183-72 72-180 72t-180-72l-153-155 141 0 0-109-335 0 0 334 112 0 0-147 156 156q103 103 259 103t259-103z m-271-791l-79 79 79 81 79-81z" horiz-adv-x="928" />
+
+<glyph glyph-name="headphones" unicode="&#xe804;" d="M856 294q22 0 39-16t16-40l0-223q0-24-16-40t-39-16l-168 0 0 447q0 92-65 157t-158 66-158-66-66-157l0-447-167 0q-24 0-40 16t-16 40l0 223q0 23 16 39t40 17l56 0 0 112q0 138 98 236t236 99 237-99 98-236l0-112 57 0z" horiz-adv-x="928" />
+
+<glyph glyph-name="shield" unicode="&#xf132;" d="M607 314v357h-250v-634q67 35 119 76 131 103 131 201z m107 429v-429q0-48-18-95t-47-84-66-71-70-57-68-43-50-28-23-11q-7-4-15-4t-14 4q-9 4-24 11t-50 28-67 43-71 57-66 71-46 84-19 95v429q0 14 11 25t25 11h643q14 0 25-11t10-25z" horiz-adv-x="714.3" />
+</font>
+</defs>
+</svg>
